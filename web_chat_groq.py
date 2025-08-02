@@ -227,4 +227,4 @@ with gr.Blocks(css=".footer {display: none;}") as demo:
     clear_rag_btn.click(lambda: (clear_rag_cache(),), outputs=[status_output])
 
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch(server_name="0.0.0.0", server_port=10000)
