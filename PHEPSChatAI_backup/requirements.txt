@@ -1,4 +1,4 @@
-gradio
+gradio==5.39.0
 openai==1.98.0
 groq==0.4.0
 llama-index==0.12.52
@@ -6,4 +6,4 @@ python-dotenv==1.1.1
 pytesseract==0.3.13
 Pillow==11.3.0
 requests==2.32.4
-duckduckgo-search
+ddgs==1.1.2
