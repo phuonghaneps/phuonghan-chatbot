@@ -1,0 +1,10 @@
+gradio
+requests
+pytesseract
+Pillow
+python-dotenv
+duckduckgo-search
+llama-index
+openai
+groq
+llama-index
