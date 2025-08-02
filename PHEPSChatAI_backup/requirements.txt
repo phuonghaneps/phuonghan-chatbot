@@ -6,4 +6,7 @@ python-dotenv==1.1.1
 pytesseract==0.3.13
 Pillow==11.3.0
 requests==2.32.4
-duckduckgo-search==1.0.5
+duckduckgo-search==8.1.1
+llama-index-core==0.12.52.post1
+llama-index-llms-openai==0.4.7
+# Gỡ hoặc cập nhật các gói không tương thích (như embeddings-huggingface, llms-groq) nếu không cần
