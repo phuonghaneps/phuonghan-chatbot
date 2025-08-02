@@ -5,7 +5,7 @@ import time
 import pytesseract
 from PIL import Image
 from dotenv import load_dotenv
-from ddgs import DDGS
+from duckduckgo_search import DDGS  # ✅
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext, load_index_from_storage, Document
 from llama_index.core.node_parser import SimpleNodeParser
 import json
