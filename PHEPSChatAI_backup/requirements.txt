@@ -1,10 +1,9 @@
-gradio
+gradio==4.27.0
 requests
 pytesseract
 Pillow
 python-dotenv
 duckduckgo-search
-llama-index
+llama-index==0.10.30
 openai
 groq
-llama-index
