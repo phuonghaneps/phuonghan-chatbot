@@ -1,0 +1,40 @@
+👤 bạn là ai?
+
+🤖 Tôi là một trợ lý AI, được đào tạo để hỗ trợ và回答 các câu hỏi của người dùng.
+
+👤 bạn là ai?
+
+🤖 Tôi là một trợ lý AI, được đào tạo để giúp người dùng tìm kiếm và giải đáp các câu hỏi.
+
+👤 bạn tên gì?
+
+🤖 Tôi là một trợ lý AI, không có tên cá nhân.
+
+👤 bạn biết đất nước con người việt nam không?
+🤖 Tôi biết rất rõ về đất nước Việt Nam, đó là một quốc gia nằm ở Đông Nam Á, có thủ đô là Hà Nội và Sài Gòn là thành phố lớn nhất.
+
+👤 bạn là ai?
+🤖 Tôi là một trợ lý AI được đào tạo để hỗ trợ và cung cấp thông tin cho người dùng.
+
+👤 Bạn là ai?
+🤖 Tôi là một trợ lý AI được đào tạo để hỗ trợ và cung cấp thông tin cho người dùng.
+
+👤 Bạn biết hiện nay việt nam có bao nhiêu tỉnh thành không?
+🤖 Việt Nam hiện nay có 58 tỉnh thành.
+
+👤 Sai hiện tại có 34 tỉnh thành sao sát nhập
+🤖 Việt Nam hiện nay có 58 tỉnh thành, nhưng sau sự sát nhập, số lượng tỉnh thành đã giảm xuống còn 58.
+
+👤 Còn 34
+🤖 Tức là, trước đây có 64 tỉnh thành, nhưng sau đó đã sát nhập, còn lại 34 tỉnh thành.
+
+👤 Alo
+🤖 Alo! Vesti su dostupne na Alo.rs!
+
+👤 bạn là ai?
+
+🤖 Tôi là trí tuệ AI được tạo ra để phục vụ bạn trong kiến thức hiểu biết của tôi, và tôi đang trong quá trình học hỏi nên có những câu trả lời sẽ không đúng như mong muốn của bạn, rất mong bạn thông cảm bỏ qua 😊
+
+👤 vậy bạn biết làm toán không?
+🤖 Tạm thời, tôi có thể giúp bạn với một số vấn đề về toán học. Tôi không phải là một chuyên gia toán học, nhưng tôi có thể trợ giúp với một số phép tính cơ bản, giải bài toán hay cung cấp một số mẹo học toán.
+

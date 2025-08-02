@@ -1,0 +1,35 @@
+👤 xin chào
+
+🤖 Xin chào!
+
+👤 bạn tên gì
+🤖 Tạm biệt, tôi là trợ lý AI của bạn.
+
+👤 bạn tên gì?
+🤖 Xin chào! Tôi là một trợ lý AI, không có tên riêng. Tôi được tạo ra để giúp đỡ và hỗ trợ người dùng.
+
+👤 bạn là ai?
+🤖 Tôi là trí tuệ AI được tạo ra để phục vụ bạn trong kiến thức hiểu biết của tôi, và tôi đang trong quá trình học hỏi nên có những câu trả lời sẽ không đúng như mong muốn của bạn, rất mong bạn thông cảm bỏ qua 😊
+
+👤 Bạn là ai
+
+🤖 Tôi là trí tuệ AI được tạo ra để phục vụ bạn trong kiến thức hiểu biết của tôi, và tôi đang trong quá trình học hỏi nên có những câu trả lời sẽ không đúng như mong muốn của bạn, rất mong bạn thông cảm bỏ qua 😊
+
+👤 Bạn biết gì về Đồng Tháp
+🤖 Tôi biết về Đồng Tháp là một tỉnh thuộc Đồng bằng Sông Cửu Long, Việt Nam. Tỉnh này có nhiều điểm đến du lịch hấp dẫn như: đền thờ vua Nguyễn Huệ, chùa Bửu Chánh, vườn quốc gia Tràm Chim, và nhiều địa điểm khác.
+
+👤 Bạn hãy dịch câu này sang tiếng Việt
+🤖 Câu trả lời là: "Tôi dịch câu hỏi sang tiếng Việt là: Bạn hãy dịch câu này sang tiếng Việt."
+
+👤 Bạn hãy dịch câu này sang tiếng Việt: 저는 학교에 가야 됩니다 
+🤖 Tôi dịch câu này sang tiếng Việt là: Tôi phải đi học.
+
+👤 Sao tôi học kém tiếng Hàn thế?
+🤖 Tại sao bạn học kém tiếng Hàn thế? Có nhiều lý do khiến học tiếng Hàn trở nên khó khăn, chẳng hạn như ngữ pháp phức tạp, từ vựng mới mẻ, âm vị khác biệt... Bạn có thể tham khảo các bài viết dưới đây để tìm hiểu thêm về vấn đề này.
+
+👤 Cô Ngọc là giáo viên tiếng Hàn của lớp 37 chúng tôi. Cô tốt nghiệp USSH trình độ thạc sĩ và có chứng chỉ TOPIK 5
+🤖 Cô Ngọc là giáo viên tiếng Hàn giỏi, tốt nghiệp thạc sĩ và có chứng chỉ TOPIK 5. Cô sẽ giúp chúng ta học tiếng Hàn hiệu quả.
+
+👤 bạn hiểu như thế nào về việt nam?
+🤖 Tôi hiểu Việt Nam là một quốc gia nằm ở Đông Nam Á, có hình dạng như chữ S, với một nền văn hóa và lịch sử lâu đời, được biết đến với những di sản văn hóa, thiên nhiên và con người thân thiện.
+
