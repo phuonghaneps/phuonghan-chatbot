@@ -7,3 +7,5 @@ Pillow==11.3.0
 requests==2.32.4
 duckduckgo-search @ git+https://github.com/alexmercerind/duckduckgo-search.git
 
+
+
