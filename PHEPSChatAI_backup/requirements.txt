@@ -6,6 +6,5 @@ python-dotenv==1.1.1
 pytesseract==0.3.13
 Pillow==11.3.0
 requests==2.32.4
+duckduckgo-search==1.0.5
 
-# Thay thế repo fork sai bằng repo chính thức
-duckduckgo-search @ git+https://github.com/alexmercerind/duckduckgo-search.git
